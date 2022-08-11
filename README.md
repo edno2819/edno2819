@@ -15,7 +15,7 @@
   <img align="center" alt="Edno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-Tecnologias familiares em:
+### Tecnologias familiares em:
 - TypeScript, Javascript e Python
 - React and React Native
 - Construção de API's RESTFul - Express, Djando Rest e Flask
