@@ -17,16 +17,16 @@
   
 ### Tecnologias familiares em:
 - TypeScript, Javascript e Python
-- React and React Native
+- React, React Native e CSS
 - Construção de API's RESTFul - Express, Djando Rest e Flask
 - PostgreSQL, NoSQL(MongoDB), MySQL
-- Jest para testes (integração e unitarios)
+- Testes (integração e unitarios)
 - Metologias Ageis - Scrum & Kaban
 - Automação - Selenium e Pywinauto
 - Dados e Cálculos - Pandas, Numpy e Scipy
 - Docker e Docker Compose
 - Deploy Heroku e AWS
-- Conhecimento basico de TDD
+- Conhecimento basico de DDD
 
  
 <div> 
