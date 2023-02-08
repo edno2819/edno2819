@@ -1,5 +1,5 @@
 ## Olá eu sou a Edno Almeida!
-- Sou bacharel em Ciência e Tecnologia pela UFMA e estudante de Engenharia da Computação pela mesma. Sou programador e gosto de ser desafiado a resolver problemas das mais váriadas áreas. Gosto muito de análise de dados, mas no momento estou focando meus esforços para a área de desenvolvimento de aplicações.
+- Sou bacharel em Ciência e Tecnologia pela UFMA e estudante de Engenharia da Computação pela mesma. Sou programador e gosto de ser desafiado a resolver problemas das mais váriadas áreas. Gosto muito de análise de dados, mas no momento estou focando em desenvolvimento de software.
 
 <div align="center">
   <a href="https://github.com/edno2819">
@@ -18,13 +18,12 @@
 ### Tecnologias familiares em:
 - TypeScript, Javascript e Python
 - React, React Native e CSS
-- Construção de API's RESTFul - Express, Djando Rest e Flask
+- Construção de API's RESTFul - Express, Djando e Flask
 - PostgreSQL, NoSQL(MongoDB), MySQL
 - Automação - Selenium e Pywinauto
 - Dados e Cálculos - Pandas, Numpy e Scipy
 - Docker e Docker Compose e Kubernetes
-- Deploy Heroku, AWS e Azure
-- Conhecimento basico de DDD
+- Heroku, AWS e Azure
 
  
 <div> 
