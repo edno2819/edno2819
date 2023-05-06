@@ -1,4 +1,4 @@
-## Olá eu sou a Edno Almeida!
+## Olá!
 
 <div align="center">
   <a href="https://github.com/edno2819">
