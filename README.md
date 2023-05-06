@@ -1,5 +1,4 @@
 ## Olá eu sou a Edno Almeida!
-- Sou bacharel em Ciência e Tecnologia pela UFMA e estudante de Engenharia da Computação pela mesma. Sou programador e gosto de ser desafiado a resolver problemas das mais váriadas áreas. Gosto muito de análise de dados, mas no momento estou focando em desenvolvimento de software.
 
 <div align="center">
   <a href="https://github.com/edno2819">
