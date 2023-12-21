@@ -1,11 +1,4 @@
-- TypeScript, Node, Python e Go
-- React, React Native e CSS
-- Construção de API's RESTFul - Express, Djando e Gin
-- PostgreSQL, NoSQL(MongoDB), MySQL
-- Automação - Selenium e Pywinauto
-- Dados e Cálculos - Pandas, Numpy e Scipy
-- Docker e Docker Compose e Kubernetes
-- Heroku, AWS e Azure
+.
 
  
 <div> 
